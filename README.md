@@ -1,7 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Joan%20Antônio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
-### Desenvolvedor focado em RPA, Automação com IA e Sistemas Web
+
+### Desenvolvedor focado em RPA, Automação com IA e Sistemas Web ###
 
 💻 Python | JavaScript | Node.js | React | SQL | FastAPI  
 🤖 RPA | Selenium | Automações Empresariais | IA aplicada a processos  
