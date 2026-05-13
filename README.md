@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kauã%20Willams&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Joan%20Antônio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
