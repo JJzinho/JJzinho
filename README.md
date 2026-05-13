@@ -1,16 +1,60 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kauã%20Willams&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<!--
-**JJzinho/JJzinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou o Joan Antônio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvedor focado em RPA, Automação com IA e Sistemas Web
+
+💻 Python | JavaScript | Node.js | React | SQL | FastAPI  
+🤖 RPA | Selenium | Automações Empresariais | IA aplicada a processos  
+🏢 Criando soluções para otimizar rotinas comerciais, financeiras e operacionais
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor com foco em **automação de processos**, **RPA**, **sistemas internos** e **integrações com IA**.
+
+Gosto de criar soluções que reduzem trabalho manual, organizam dados e ajudam empresas a ganhar produtividade.
+
+Atualmente trabalho com projetos envolvendo:
+
+- Robôs com Selenium
+- Automação de planilhas Excel
+- Integrações com APIs
+- Sistemas com FastAPI
+- Interfaces web com React
+- Automações com Outlook e WhatsApp
+- Organização financeira e documental
+- Inteligência artificial aplicada a processos internos
+
+---
+
+## 🧠 Tecnologias que uso
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,react,html,css,fastapi,mysql,postgres,git,github,vscode" />
+
+</div>
+
+---
+
+## 🔥 Principais áreas
+
+```txt
+RPA
+Automação com IA
+Python
+Selenium
+FastAPI
+React
+Node.js
+SQL
+Excel Automation
+APIs
+Back-end
+Sistemas internos
