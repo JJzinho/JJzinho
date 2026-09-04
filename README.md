@@ -14,9 +14,8 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor com foco em **automação de processos**, **RPA**, **sistemas internos** e **integrações com IA**.
-
-Gosto de criar soluções que reduzem trabalho manual, organizam dados e ajudam empresas a ganhar produtividade.
+Desenvolvedor com foco em **Full-Stack**, **RPA**, **sistemas internos** e **integrações com IA**.
+Crio soluções que reduzem trabalho manual, organizam dados e ajudam empresas a ganhar produtividade :)
 
 Atualmente trabalho com projetos envolvendo:
 
@@ -28,6 +27,7 @@ Atualmente trabalho com projetos envolvendo:
 - Automações com Outlook e WhatsApp
 - Organização financeira e documental
 - Inteligência artificial aplicada a processos internos
+- Reparo de Hardware
 
 ---
 
